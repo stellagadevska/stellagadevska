@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stella Gadevska</h1>
 <h3 align="center">A passionate Frontend developer from Bulgaria.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stellagadevska" alt="stellagadevska" /></a> </p>
-
 - 🔭 I’m currently working on [Furniture Ecommerce Website](https://github.com/stellagadevska/MebeliUyut)
 
 - 🌱 I’m currently learning **NextJS**
