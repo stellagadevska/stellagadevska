@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects will be available at [https://stellagadevska.github.io/MyPortfolio/](https://stellagadevska.github.io/MyPortfolio/) (In progress)
+- 👨‍💻 All of my projects will be available at [https://stellagadevska.github.io/MyPortfolio/](https://stellagadevska.github.io/MyPortfolio/) (In progress: Rewriting from HTML, CSS, JavaScript to React.js)
 
 - 📫 How to reach me **stelagadevska@gmail.com**
 
