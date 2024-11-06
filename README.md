@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Furniture Ecommerce Website](https://github.com/stellagadevska/MebeliUyut)
 
-- 🌱 I’m currently learning **Cypress**, **AI**, **Machine Learning**, **Python**
+- 🌱 I’m currently learning **AI**, **Machine Learning**, **Python**
 
 - 👨‍💻 All of my projects will be available at [https://stela-gadevska.vercel.app](https://stela-gadevska.vercel.app) (In progress)
 
