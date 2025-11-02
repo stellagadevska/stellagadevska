@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stella Gadevska</h1>
 <h3 align="center">A passionate Frontend developer from Bulgaria.</h3>
 
-- 🔭 I’m currently working on [Furniture Ecommerce Website](https://github.com/stellagadevska/MebeliUyut)
+- 🔭 I’m currently working on my Master's Thesis (for Sofia University - Master's program in AI)
 
 - 🌱 I’m currently learning **AI**, **Machine Learning**, **Python**
 
